@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Micro:bit Controller</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; }
+        button { margin: 10px; padding: 15px; font-size: 16px; }
+    </style>
+</head>
+<body>
+    <h1>Micro:bit Controller</h1>
+    <button id="connect">Connect to Micro:bit</button>
+    <button id="buttonA">Press A</button>
+    <button id="buttonB">Press B</button>
+    
+    <script src="app.js"></script>
+</body>
+</html>
